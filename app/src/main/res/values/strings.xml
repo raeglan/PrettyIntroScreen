@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pretty Intro Screen</string>
+    
+    <string name="pref_first_start" translatable="false">first-start</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="got_it">Got it!</string>
+
+    <string name="welcome_first_title">Title Uno</string>
+    <string name="welcome_second_title">Title Dos</string>
+    <string name="welcome_third_title">Title Tres</string>
+    <string name="welcome_first_desc">This is the first of three slides.</string>
+    <string name="welcome_second_desc">The second one is even prettier.</string>
+    <string name="welcome_third_desc">Uhh! That is so beautiful.</string>
+</resources>
