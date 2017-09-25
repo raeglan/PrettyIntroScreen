@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TODO: Every slide is saved as part of an array, replace the content of each array to edit
+     the welcome activity. The number of entries in each array should be the same. -->
+    <array name="welcome_images">
+        <item>@drawable/rafa</item>
+        <item>@drawable/arthur</item>
+        <item>@drawable/adrian</item>
+    </array>
+
+    <string-array name="welcome_title">
+        <item>@string/welcome_first_title</item>
+        <item>@string/welcome_second_title</item>
+        <item>@string/welcome_third_title</item>
+    </string-array>
+    <string-array name="welcome_description">
+        <item>@string/welcome_first_desc</item>
+        <item>@string/welcome_second_desc</item>
+        <item>@string/welcome_third_desc</item>
+    </string-array>
+</resources>
